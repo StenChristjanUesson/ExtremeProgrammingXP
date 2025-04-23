@@ -1,0 +1,64 @@
+Extreme Programming (XP) on tarkvaraarenduse meetod, mis keskendub paindlikkusele, kvaliteedile ja meeskonnatöösse, et saavutada pidev täiustamine ja kiire arendustsükkel. XP filosoofia kohaselt on dokumentatsioon olulise tähtsusega, kuid selle eesmärk on aidata arendust ja mitte takistada seda. Dokumentatsioon peaks olema võimalikult lihtne ja keskenduma sellele, mis on vajalik arenduse käigus, vältides liigset bürokraatiat.
+
+XP lähenemise dokumentatsiooni hindamine GitHub Wikis võib sisaldada järgmisi aspekte:
+
+1. Dokumentatsiooni eesmärk
+XP-is dokumentatsioonil on konkreetne eesmärk – see peaks olema ajakohane, arendust toetav ja meeskonnaliikmeid suunav. GitHub Wiki-d saab kasutada arendusprotsesside, koodistandardite, arenduseesmärkide ja muu olulise info jagamiseks, mis on meeskonnale vajalik.
+
+Positiivne hindamine:
+
+Lihtsus ja asjakohasus: Wiki-s olev dokumentatsioon peaks olema lihtne ja sisaldama ainult vajalikke elemente. Vähem on rohkem, kuna liiga detailne dokumentatsioon võib meeskonna liikmeid segada või aeglustada arendust.
+
+Pidev uuendamine: GitHub Wiki võimaldab dokumentatsiooni pidevalt värskendada ja täiustada, vastavalt projektis toimuvatele muutustele.
+
+Negatiivne hindamine:
+
+Liigne dokumentatsioon: Kui dokumentatsioon on liiga mahukas või sisaldab liiga palju detailseid juhiseid, võib see segada arendust. XP väldib üleliigset dokumenteerimist, mis ei too otsest kasu.
+
+Vähenenud läbipaistvus: Kui Wiki pole korralikult korraldatud või ei kajasta reaalajas arenduse edenemist, võib tekkida info puudujääk.
+
+2. Dokumentatsioon vs Kood
+XP väärtustab koodi üle dokumentatsiooni, kuid siiski on oluline, et kood oleks arusaadav ja toetatud dokumentatsiooniga, et vältida arusaamatusi või vigade tekkimist.
+
+Positiivne hindamine:
+
+Koodiga seotud dokumentatsioon: GitHub Wiki-s saab hoida lühikesi ja selgeid selgitusi, kuidas teatud funktsioone või klasse kasutada, mis on kasulik arendajatele, kes töötavad sama koodibaasiga.
+
+Kood ja dokumentatsioon peavad olema kooskõlas: XP keskendub sellele, et kood oleks lihtsalt mõistetav ja dokumentatsioon selgitaks vaid neid aspekte, mis võivad olla keerulisemad või vajavad täiendavat selgitust.
+
+Negatiivne hindamine:
+
+Ebaühtlane dokumentatsioon: Kui Wiki-s olev dokumentatsioon ei ole tihedalt seotud koodiga või jääb tihti ajale jalgu, ei täida see oma eesmärki.
+
+3. Kasutajate ja arendajate kaasamine
+XP rõhutab meeskonnatööd ja aktiivset suhtlemist. GitHub Wiki-s saab dokumentatsiooni hoida elusana, kuhu meeskonnaliikmed saavad lisada oma kommentaare, küsimusi ja täiustusi.
+
+Positiivne hindamine:
+
+Kaasamine ja koostöö: Wiki annab meeskonnale võimaluse pidevalt täiendada dokumentatsiooni. Arendajad saavad lisada koodinäiteid, selgitusi ja märke, mis on kasulikud teistele.
+
+Ühine teadmusbaas: GitHub Wiki loob keskkonna, kus kõiki projekti seotud teadmisi saab jagada ja hoida ühes kohas.
+
+Negatiivne hindamine:
+
+Ebaühtlane kvaliteet: Kui kõik meeskonnaliikmed ei osale dokumentatsiooni täiendamises, võivad mõned osad olla puudulikud või aegunud.
+
+4. XP dokumentatsiooni tasemed
+XP-is määratakse dokumentatsiooni tasemed, mis peavad olema minimaalsed ja arendust toetavad. Näiteks võivad need sisaldada ainult:
+
+Ülevaated ja eesmärgid
+
+Testide ja koodinäidete selgitused
+
+Arhitektuuri kõrgtasandi ülevaated
+
+Positiivne hindamine:
+
+Funktsionaalsed ja kergesti uuendatavad dokumendid: GitHub Wiki annab lihtsa viisi dokumentide haldamiseks ja värskendamiseks vastavalt projekti edenemisele.
+
+Negatiivne hindamine:
+
+Üksikasjalikud ja tihti muutuvad dokumendid: Kui dokumentatsioon muutub liiga tihti või sisaldab liiga palju üksikasju, võib see olla ajakulukas ja segadusttekitav.
+
+Kokkuvõte:
+XP dokumentatsioonihindamine GitHub Wikis põhineb sellel, et dokumentatsioon peaks olema lihtne, ajakohane ja meeskonnaliikmeid toetav. Liigne detailide lisamine, ebaühtlane kvaliteet ja üleliigne dokumentatsioon võivad takistada arenduse edenemist, samas kui elav ja kaasav Wiki toob meeskonnale väärtust, pakkudes vajalikku teavet ilma ülekoormamata.
